@@ -1,0 +1,1 @@
+Notepad++ v7.8.9 Enhancements & bug-fixes:
